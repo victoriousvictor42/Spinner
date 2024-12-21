@@ -1,3 +1,3 @@
 # Spinner
-HTML and CSS
+HTML and CSS,
 multiple colors that spin infinitely.
